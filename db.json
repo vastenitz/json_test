@@ -1,7 +1,7 @@
 {
   "items":
   [ 
-	    {"instanceId": 1, "buildingId":8833,"level": 0, "inBuilding": true,"startTime": 16000, "requireTimeBuild": 5000, posX":37,"posZ":19},
+	    {"instanceId": 1, "buildingId":8833,"level": 0, "inBuilding": true,"startTime": 16000, "requireTimeBuild": 5000, "posX":37,"posZ":19},
 	    {"instanceId": 2, "buildingId":8833,"level": 0,"inBuilding": true,"startTime": 17000, "requireTimeBuild": 4000,"posX":22,"posZ":23},
 	    {"instanceId": 3,"buildingId":2728,"level": 0,"inBuilding": false,"startTime": 0, "requireTimeBuild": 0,"posX":28,"posZ":15},
 	    {"instanceId": 4,"buildingId":8833,"level": 0,"inBuilding": true,"startTime": 15500, "requireTimeBuild": 5000,"posX":18,"posZ":24},
