@@ -10,6 +10,7 @@
 	    {"instanceId": 7,"buildingId":8833,"level": 0,"inBuilding": true,"startTime": 16000, "requireTimeBuild": 5000,"posX":26,"posZ":15},
 	    {"instanceId": 8,"buildingId":8833,"level": 0,"inBuilding": true,"startTime": 16000, "requireTimeBuild": 5000,"posX":13,"posZ":22},
 	    {"instanceId": 9,"buildingId":8833,"level": 0,"inBuilding": true,"startTime": 16000, "requireTimeBuild": 5000,"posX":14,"posZ":22},
-	    {"instanceId": 10,"buildingId":3265,"level": 0,"inBuilding": false,"startTime": 0, "requireTimeBuild": 0,"posX":18,"posZ":19}
+	    {"instanceId": 10,"buildingId":3265,"level": 0,"inBuilding": false,"startTime": 0, "requireTimeBuild": 0,"posX":18,"posZ":19},
+	    {"instanceId": 11,"buildingId":3635,"level": 0,"inBuilding": false,"startTime": 0, "requireTimeBuild": 0,"posX":10,"posZ":19}
 	]
 }
