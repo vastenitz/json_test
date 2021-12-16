@@ -1,15 +1,15 @@
 {
   "items":
   [ 
-	    {"instanceId": 1, "buildingId":3635,"level": 0, "inBuilding": true,"posX":37,"posZ":19},
-	    {"instanceId": 2, "buildingId":2496,"level": 0,"inBuilding": true,"posX":22,"posZ":23},
+	    {"instanceId": 1, "buildingId":8833,"level": 0, "inBuilding": true,"posX":37,"posZ":19},
+	    {"instanceId": 2, "buildingId":8833,"level": 0,"inBuilding": true,"posX":22,"posZ":23},
 	    {"instanceId": 3,"buildingId":2728,"level": 0,"inBuilding": false,"posX":28,"posZ":15},
-	    {"instanceId": 4,"buildingId":2728,"level": 0,"inBuilding": true,"posX":18,"posZ":24},
-	    {"instanceId": 5,"buildingId":4764,"level": 0,"inBuilding": true,"posX":32,"posZ":14},
-	    {"instanceId": 6,"buildingId":7666,"level": 0,"inBuilding": true,"posX":27,"posZ":30},
-	    {"instanceId": 7,"buildingId":7666,"level": 0,"inBuilding": true,"posX":26,"posZ":15},
-	    {"instanceId": 8,"buildingId":7666,"level": 0,"inBuilding": true,"posX":13,"posZ":22},
-	    {"instanceId": 9,"buildingId":7666,"level": 0,"inBuilding": true,"posX":14,"posZ":22},
+	    {"instanceId": 4,"buildingId":8833,"level": 0,"inBuilding": true,"posX":18,"posZ":24},
+	    {"instanceId": 5,"buildingId":8833,"level": 0,"inBuilding": true,"posX":32,"posZ":14},
+	    {"instanceId": 6,"buildingId":8833,"level": 0,"inBuilding": true,"posX":27,"posZ":30},
+	    {"instanceId": 7,"buildingId":8833,"level": 0,"inBuilding": true,"posX":26,"posZ":15},
+	    {"instanceId": 8,"buildingId":8833,"level": 0,"inBuilding": true,"posX":13,"posZ":22},
+	    {"instanceId": 9,"buildingId":8833,"level": 0,"inBuilding": true,"posX":14,"posZ":22},
 	    {"instanceId": 10,"buildingId":3265,"level": 0,"inBuilding": false,"posX":18,"posZ":19}
 	]
 }
