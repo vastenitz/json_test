@@ -3,7 +3,7 @@
   [ 
 	    {"instanceId": 1, "buildingId":8833,"level": 0, "inBuilding": true, "url": "https://www.linkpicture.com/q/barrack.png","startTime": 16000.5, "requireTimeBuild": 5000.3, "posX":37,"posZ":19},
 	    {"instanceId": 2, "buildingId":8833,"level": 0,"inBuilding": true,"url": "https://www.linkpicture.com/q/barrack.png", "startTime": 17000.4, "requireTimeBuild": 4000.3,"posX":22,"posZ":23},
-	    {"instanceId": 3,"buildingId":2728,"level": 0,"inBuilding": false, "url": "https://www.linkpicture.com/q/barrack.png", "startTime": 16500.6, "requireTimeBuild": 5000.3,"posX":28,"posZ":15},
+	    {"instanceId": 3,"buildingId":2728,"level": 0,"inBuilding": false, "url": "https://www.linkpicture.com/q/goldmine.png", "startTime": 16500.6, "requireTimeBuild": 5000.3,"posX":28,"posZ":15},
 	    {"instanceId": 4,"buildingId":8833,"level": 0,"inBuilding": true, "url": "https://www.linkpicture.com/q/barrack.png", "startTime": 15500.5, "requireTimeBuild": 5000.3,"posX":18,"posZ":24},
 	    {"instanceId": 5,"buildingId":8833,"level": 0,"inBuilding": true, "url": "https://www.linkpicture.com/q/barrack.png", "startTime": 16000.6, "requireTimeBuild": 5000.3,"posX":32,"posZ":14},
 	    {"instanceId": 6,"buildingId":8833,"level": 0,"inBuilding": false, "url": "https://www.linkpicture.com/q/barrack.png", "startTime": 16200.2, "requireTimeBuild": 4900.1,"posX":27,"posZ":30},
