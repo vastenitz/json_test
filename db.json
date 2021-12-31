@@ -1,9 +1,9 @@
 {
   "items":
   [ 
-	    {"instanceId": 1, "buildingId":3265,"level": 0, "inBuilding": false, "url": "https://www.linkpicture.com/q/building_new.png","startTime": 16000.5, "requireTimeBuild": 5000.3, "posX":55,"posZ":28},
-	    {"instanceId": 2, "buildingId":3265,"level": 0,"inBuilding": false,"url": "https://www.linkpicture.com/q/building_troop.png", "startTime": 17000.4, "requireTimeBuild": 4000.3,"posX":65,"posZ":33},
-	    {"instanceId": 3,"buildingId":3265,"level": 0,"inBuilding": false, "url": "https://www.linkpicture.com/q/building_green.png", "startTime": 16500.6, "requireTimeBuild": 5000.3,"posX":73,"posZ":22},
-	    {"instanceId": 4,"buildingId":3265,"level": 0,"inBuilding": false, "url": "https://www.linkpicture.com/q/building_archer.png", "startTime": 15500.5, "requireTimeBuild": 5000.3,"posX":84,"posZ":28}
+	    {"instanceId": 1, "buildingId":3265,"level": 0, "inBuilding": false, "url": "https://www.linkpicture.com/q/building_new.png","startTime": 16000.5, "requireTimeBuild": 5000.3, "posX":50,"posZ":33},
+	    {"instanceId": 2, "buildingId":3265,"level": 0,"inBuilding": false,"url": "https://www.linkpicture.com/q/building_troop.png", "startTime": 17000.4, "requireTimeBuild": 4000.3,"posX":60,"posZ":35},
+	    {"instanceId": 3,"buildingId":3265,"level": 0,"inBuilding": false, "url": "https://www.linkpicture.com/q/building_green.png", "startTime": 16500.6, "requireTimeBuild": 5000.3,"posX":68,"posZ":24},
+	    {"instanceId": 4,"buildingId":3265,"level": 0,"inBuilding": false, "url": "https://www.linkpicture.com/q/building_archer.png", "startTime": 15500.5, "requireTimeBuild": 5000.3,"posX":79,"posZ":30}
   ]
 }
