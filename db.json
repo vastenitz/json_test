@@ -1,7 +1,7 @@
 {
   "items":
   [ 
-	    {"instanceId": 1, "buildingId":8833,"level": 0, "inBuilding": true, "url": "https://www.linkpicture.com/q/building_new.png","startTime": 27348878, "requireTimeBuild": 13, "posX":47,"posZ":29},
+	    {"instanceId": 1, "buildingId":8833,"level": 0, "inBuilding": true, "url": "https://www.linkpicture.com/q/building_new.png","startTime": 27354428, "requireTimeBuild": 13, "posX":47,"posZ":29},
 	    {"instanceId": 2, "buildingId":8833,"level": 0,"inBuilding": false,"url": "https://www.linkpicture.com/q/building_troop.png", "startTime": 17000.4, "requireTimeBuild": 4000.3,"posX":58,"posZ":35},
 	    {"instanceId": 3,"buildingId":8833,"level": 0,"inBuilding": false, "url": "https://www.linkpicture.com/q/building_green.png", "startTime": 16500.6, "requireTimeBuild": 5000.3,"posX":65,"posZ":23},
 	    {"instanceId": 4,"buildingId":8833,"level": 0,"inBuilding": false, "url": "https://www.linkpicture.com/q/building_archer.png", "startTime": 15500.5, "requireTimeBuild": 5000.3,"posX":76,"posZ":29}
