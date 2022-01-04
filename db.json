@@ -23,10 +23,5 @@
 	  "requireTimeBuild": 13,
 	  "posX":47,
 	  "posZ":29
-  }, 
- "empty_land": 
-	[
-		{ "instanceId": 5, "startPosX":85, "endPosX": 95, "startPosZ": 34, "endPosZ": 40},
-		{"instanceId": 6, "startPosX":101, "endPosX": 111, "startPosZ": 39, "endPosZ": 44}
-	]
+  }
 }
