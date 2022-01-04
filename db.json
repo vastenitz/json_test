@@ -7,5 +7,5 @@
 	    {"instanceId": 4,"buildingId":8833,"level": 0,"inBuilding": false, "url": "https://www.linkpicture.com/q/building_archer.png", "startTime": 15500.5, "requireTimeBuild": 5000.3,"posX":76,"posZ":29}
   ],
   "posts":
-	"startTime":0
+	{"startTime":0}
 }
