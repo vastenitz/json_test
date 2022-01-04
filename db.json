@@ -8,4 +8,6 @@
   ],
   "posts":
 	{"startTime":0},
+  "update":
+	{"instanceId": 1, "requireTimeBuilding": 10},
 }
