@@ -8,6 +8,6 @@
   ],
   "upgrade":
   [
-	{"instanceId": 1, "requireTimeBuilding": 10}
+	{"instanceId": 1, "requireTimeBuilding": 10},
   ],
 }
