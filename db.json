@@ -21,5 +21,10 @@
 	  "requireTimeBuild": 13,
 	  "posX":47,
 	  "posZ":29
-  }
+  }, 
+ "empty_land": 
+	[
+		{ "startPosX":85, "endPosX": 95, "startPosZ": 34, "endPosZ": 40},
+		{"startPosX":101, "endPosX": 111, "startPosZ": 39, "endPosZ": 44}
+	]
 }
